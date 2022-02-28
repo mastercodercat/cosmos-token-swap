@@ -1,4 +1,4 @@
-# Coinswap Starter Pack
+# Tokenswap
 
 This is a Smart Contract built in Rust to run inside
 [Cosmos SDK](https://github.com/cosmos/cosmos-sdk) module on all chains that enable it.
